@@ -5,7 +5,7 @@ FitTrack is a versatile fitness tracking tool designed to help users monitor the
 ## Key Features 💡
 
 ### Workout Management 🏃‍♀️
-![enter image description here](https://www.google.com/url?sa=i&url=https://www.behance.net/gallery/65431121/Fitness-tracker-app-dashboard-interaction-%2528Free-PSD%2529/modules/383117655&psig=AOvVaw1yKsqEpJfW4Jx67pjvumHO&ust=1729813922303000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCgraTZpYkDFQAAAAAdAAAAABAJ)
+
 - **Customizable Workout Plans**: Users can create personalized workout plans, specifying exercises, sets, and repetitions.
 - **Reminders 🔔**: Daily notifications to remind users of their scheduled workout sessions, ensuring consistency.
 - **Workout History 📅**: FitTrack keeps track of all past workouts, providing a full overview of your fitness journey.
@@ -94,6 +94,6 @@ To generate a health report:
 
 This format integrates emojis and tables, keeping the structure organized and easy to read. The new idea focuses on fitness and workout tracking, with well-placed tables and emojis to enhance the readability and overall appearance.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjI2OTcxODAsOTQ4MTIzNjEwLC04OT
-ExNTY3MzFdfQ==
+eyJoaXN0b3J5IjpbLTM0ODA3NDI5Niw5NDgxMjM2MTAsLTg5MT
+E1NjczMV19
 -->
