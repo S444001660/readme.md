@@ -17,7 +17,7 @@ FitTrack is a versatile fitness tracking tool designed to help users monitor the
 | Planks            | 3    | 60 seconds  |
 
 ### Progress Tracking 📊
-![Progress Tracking](https://imgur.com/3rmYGnd
+![Progress Tracking](https://i.imgur.com/3rmYGnd.png)
 - **Daily Logs**: Users can log their daily progress, including the number of exercises completed and calories burned.
 - **Progress Charts 📈**: Visualize your progress over time with customizable charts that track key fitness metrics.
 - **Goal Notifications 🎯**: Get notified when you reach your fitness milestones, such as hitting a target weight or completing a workout streak.
@@ -95,7 +95,7 @@ To generate a health report:
 
 This format integrates emojis and tables, keeping the structure organized and easy to read. The new idea focuses on fitness and workout tracking, with well-placed tables and emojis to enhance the readability and overall appearance.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjM3NDY0OTgsMzg1OTUzOTE2LC0xNT
-gwNTU3ODAsLTM0ODA3NDI5Niw5NDgxMjM2MTAsLTg5MTE1Njcz
-MV19
+eyJoaXN0b3J5IjpbNDg0MTMyNTA5LDM4NTk1MzkxNiwtMTU4MD
+U1NzgwLC0zNDgwNzQyOTYsOTQ4MTIzNjEwLC04OTExNTY3MzFd
+fQ==
 -->
