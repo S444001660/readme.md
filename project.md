@@ -28,7 +28,7 @@ FitTrack is a versatile fitness tracking tool designed to help users monitor the
 | 2024-10-24 | 600             | 6                   | 90%          |
 
 ### Health Insights 🧠
-![Progress Tracking](https://i.imgur.com/3ARZQMa.jpeg
+![Health Insights](https://i.imgur.com/3ARZQMa.jpeg)
 - **Data Visualization**: Generate graphs and reports summarizing your fitness trends and performance.
 - **Personalized Tips 💡**: Receive personalized workout suggestions based on your logged data to improve performance.
 - **Downloadable Reports 📝**: Download your fitness reports in PDF format for easy sharing with trainers or healthcare professionals.
@@ -96,7 +96,7 @@ To generate a health report:
 
 This format integrates emojis and tables, keeping the structure organized and easy to read. The new idea focuses on fitness and workout tracking, with well-placed tables and emojis to enhance the readability and overall appearance.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODI4MzU4MSwzODU5NTM5MTYsLTE1OD
-A1NTc4MCwtMzQ4MDc0Mjk2LDk0ODEyMzYxMCwtODkxMTU2NzMx
-XX0=
+eyJoaXN0b3J5IjpbLTE0MDA5MjMzMTEsMzg1OTUzOTE2LC0xNT
+gwNTU3ODAsLTM0ODA3NDI5Niw5NDgxMjM2MTAsLTg5MTE1Njcz
+MV19
 -->
